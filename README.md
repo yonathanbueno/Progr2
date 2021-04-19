@@ -1,4 +1,4 @@
-#Teleprogr2
+#Teleprgm2
 Primer proyecto proyecto de programación II
 
 Nombre: Yonathan José Bueno Bueno
