@@ -1,3 +1,3 @@
 #Teleprgm2
-Yonathan Bueno
+Nombre: Yonathan Bueno.
 Ingeniería Telemática
